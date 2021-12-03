@@ -1,0 +1,181 @@
+Player,Team,Salary
+"Acevedo, Juan",New York Yankees,900000.0
+"Anderson, Jason",New York Yankees,300000.0
+"Clemens, Roger",New York Yankees,10100000.0
+"Contreras, Jose",New York Yankees,5500000.0
+"Hammond, Chris",New York Yankees,2200000.0
+"Hitchcock, Sterling",New York Yankees,6000000.0
+"Karsay, Steve",New York Yankees,5000000.0
+"Liever, Jon",New York Yankees,550000.0
+"Mussina, Mike",New York Yankees,12000000.0
+"Osuna, Antonio",New York Yankees,2400000.0
+"Pettitte, Andy",New York Yankees,11500000.0
+"Rivera, Mariano",New York Yankees,10500000.0
+"Weaver, Jeff",New York Yankees,4150000.0
+"Wells, David",New York Yankees,3250000.0
+"Appier, Kevin",Anaheim Angels,11500000.0
+"Callaway, Mickey",Anaheim Angels,302500.0
+"Donnelly, Brendan",Anaheim Angels,325000.0
+"Lackey, John",Anaheim Angels,315000.0
+"Ortiz, Ramon",Anaheim Angels,2266667.0
+"Percival, Troy",Anaheim Angels,7833333.0
+"Rodriquez, Francisco",Anaheim Angels,312500.0
+"Schoeneweis, Scott",Anaheim Angels,1425000.0
+"Sele, Aaron",Anaheim Angels,8166667.0
+"Shields, Scot",Anaheim Angels,305000.0
+"Washburn, Jarrod",Anaheim Angels,3875000.0
+"Weber, Ben",Anaheim Angels,375000.0
+"Wise, Matt",Anaheim Angels,302500.0
+"Burkett, John",Boston Red Sox,5500000.0
+"Embree, Alan",Boston Red Sox,3000000.0
+"Fossum, Casey",Boston Red Sox,324500.0
+"Fox, Chad",Boston Red Sox,500000.0
+"Gonzalez, Dicky",Boston Red Sox,300000.0
+"Howry, Bobby",Boston Red Sox,1700000.0
+"Lowe, Derek",Boston Red Sox,3625000.0
+"Lyon, Brandon",Boston Red Sox,309500.0
+"Martinez, Pedro",Boston Red Sox,15500000.0
+"Mendoza, Ramiro",Boston Red Sox,2900000.0
+"Person, Robert",Boston Red Sox,300000.0
+"Timlin, Mike",Boston Red Sox,1850000.0
+"Wakefield, Tim",Boston Red Sox,4000000.0
+"White, Matt",Boston Red Sox,300000.0
+"Anderson, Brian",Cleveland Indians,1500000.0
+"Baez, Danys",Cleveland Indians,5125000.0
+"Bere, Jason",Cleveland Indians,1000000.0
+"Davis, Jason",Cleveland Indians,301100.0
+"Lee, Cliff",Cleveland Indians,300900.0
+"Mulholland, Terry",Cleveland Indians,500000.0
+"Myette, Aaron",Cleveland Indians,307500.0
+"Riske, David",Cleveland Indians,314000.0
+"Rodriguez, Ricardo",Cleveland Indians,302400.0
+"Sabathia, CC",Cleveland Indians,1100000.0
+"Sadler, Carl",Cleveland Indians,303200.0
+"Santiago, Jose",Cleveland Indians,600000.0
+"Traber, Billy",Cleveland Indians,300000.0
+"Westbrook, Jake",Cleveland Indians,305500.0
+"Wickman, Bob",Cleveland Indians,6000000.0
+"Wohlers, Mark",Cleveland Indians,2600000.0
+"Creek, Doug",Toronto Blue Jays ,700000.0
+"Escobar, Kelvim",Toronto Blue Jays ,3900000.0
+"File, Bob",Toronto Blue Jays ,310000.0
+"Halladay, Roy",Toronto Blue Jays ,3825000.0
+"Hendrickson, Mark",Toronto Blue Jays ,302000.0
+"Lidle, Cory",Toronto Blue Jays ,5350000.0
+"Linton, Doug",Toronto Blue Jays ,350000.0
+"Lopez, Aquilino",Toronto Blue Jays ,300000.0
+"Miller, Trever",Toronto Blue Jays ,305000.0
+"Politte, Cliff",Toronto Blue Jays ,845000.0
+"Sturtze, Tanyon",Toronto Blue Jays ,1000000.0
+"Tam, Jeff",Toronto Blue Jays ,600000.0
+"Walker, Pete",Toronto Blue Jays ,425000.0
+"Bauer, Rick",Baltimore Orioles,325000.0
+"Bedard, Erik",Baltimore Orioles,300000.0
+"Daal, Omar",Baltimore Orioles,3000000.0
+"Erickson, Scott",Baltimore Orioles,7030000.0
+"Groom, Buddy",Baltimore Orioles,3000000.0
+"Helling, Rick",Baltimore Orioles,1000000.0
+"Hentgen, Pat",Baltimore Orioles,1200000.0
+"Johson, Jason",Baltimore Orioles,2900000.0
+"Julio, Jorge",Baltimore Orioles,350000.0
+"Ligtenberg, Kerry",Baltimore Orioles,1200000.0
+"Lopez, Rodrigo",Baltimore Orioles,325000.0
+"Ponson, Sidney",Baltimore Orioles,4250000.0
+"Roberts, Willis",Baltimore Orioles,3500000.0
+"Ryan, BJ",Baltimore Orioles,762500.0
+"Bierbrodt, Nick",Tampa Bay Devil Rays,300000.0
+"Carter, Lance",Tampa Bay Devil Rays,300000.0
+"Colome, Jesus",Tampa Bay Devil Rays,300000.0
+"Harper, Travis",Tampa Bay Devil Rays,325000.0
+"Kennedy, Joe",Tampa Bay Devil Rays,300000.0
+"McClung, Seth",Tampa Bay Devil Rays,300000.0
+"Parque, Jim",Tampa Bay Devil Rays,400000.0
+"Parris, Steve",Tampa Bay Devil Rays,400000.0
+"Seay, Bobby",Tampa Bay Devil Rays,300000.0
+"Sosa, Jorge",Tampa Bay Devil Rays,300000.0
+"Venafro, Mike",Tampa Bay Devil Rays,300000.0
+"Zambrano, Victor",Tampa Bay Devil Rays,300000.0
+"Affeldt, Jeremy",Kansas City Royals,313000.0
+"Asencio, Miguel",Kansas City Royals,314000.0
+"Bukvich, Ryan",Kansas City Royals,304500.0
+"Carrasco, DJ",Kansas City Royals,300000.0
+"George, Chris",Kansas City Royals,303500.0
+"Grimsley, Jason",Kansas City Royals,2000000.0
+"Hernandez, Runelvys",Kansas City Royals,305500.0
+"Lopez, Albie",Kansas City Royals,1500000.0
+"MacDougal, Mike",Kansas City Royals,301000.0
+"May, Darrell",Kansas City Royals,450000.0
+"Wilson, Kris",Kansas City Royals,311000.0
+"Fetters, Mike",Minnesota Twins,500000.0
+"Fiore, Tony",Minnesota Twins,330000.0
+"Guardado, Eddie",Minnesota Twins,2700000.0
+"Hawkins, Latroy",Minnesota Twins,3000000.0
+"Lohse, Kyle",Minnesota Twins,330000.0
+"Mays, Joe",Minnesota Twins,4150000.0
+"Milton, Eric",Minnesota Twins,6000000.0
+"Radke, Brad",Minnesota Twins,8750000.0
+"Reed, Rick",Minnesota Twins,8000000.0
+"Rogers, Kenny",Minnesota Twins,2000000.0
+"Romero, JC",Minnesota Twins,325000.0
+"Santana, Johan",Minnesota Twins,335000.0
+"Buehrle, Mark",Chicago White Sox,445000.0
+"Colon, Bartolo",Chicago White Sox,8250000.0
+"Garland, Jon",Chicago White Sox,375000.0
+"Glover, Gary",Chicago White Sox,330000.0
+"Gordon, Tom",Chicago White Sox,1400000.0
+"Koch, Billy",Chicago White Sox,4250000.0
+"Loaiza, Esteban",Chicago White Sox,500000.0
+"Marte, Damaso",Chicago White Sox,330000.0
+"Stewart, Josh",Chicago White Sox,300000.0
+"White, Ribk",Chicago White Sox,600000.0
+"Wright, Danny",Chicago White Sox,325000.0
+"Wunsch, Kelly",Chicago White Sox,575000.0
+"Anderson, Matt",Detroit Tigers,3200000.0
+"Bernero, Adam",Detroit Tigers,314000.0
+"Bonderman, Jeremy",Detroit Tigers,300000.0
+"Cornejo, Nate",Detroit Tigers,303000.0
+"German, Franklyn",Detroit Tigers,300000.0
+"Knotts, Gary",Detroit Tigers,305000.0
+"Ledezma, Wilfredo",Detroit Tigers,300000.0
+"Maroth, Mike",Detroit Tigers,309000.0
+"Patterson, Danny",Detroit Tigers,2500000.0
+"Roney, Matt",Detroit Tigers,300000.0
+"Sparks, Steve",Detroit Tigers,4500000.0
+"Spurling, Chris",Detroit Tigers,305000.0
+"Walker, Jamie",Detroit Tigers,360000.0
+"Carrara, Giovanni",Seattle Mariners,400000.0
+"Franklin, Ryan",Seattle Mariners,425000.0
+"Garcia, Freddy",Seattle Mariners,6875000.0
+"Hasegawa, Shigetoshi",Seattle Mariners,1800000.0
+"Mateo, Julio",Seattle Mariners,302500.0
+"Meche, Gil",Seattle Mariners,325000.0
+"Moyer, Jamie",Seattle Mariners,6500000.0
+"Nelson, Jeff",Seattle Mariners,3983333.0
+"Pineiro, Joel",Seattle Mariners,440000.0
+"Rhodes, Arthur",Seattle Mariners,3500000.0
+"Sasaki, Kazuhiro",Seattle Mariners,8000000.0
+"Bowie, Micah",Oakland Athletics,304000.0
+"Bradford, Chad",Oakland Athletics,331000.0
+"Fikac, Jeremy",Oakland Athletics,316000.0
+"Foulke, Keith",Oakland Athletics,6000000.0
+"Halama, John",Oakland Athletics,750000.0
+"Hudson, Tim",Oakland Athletics,2700000.0
+"Lilly, Ted",Oakland Athletics,335000.0
+"Mecir, Jim",Oakland Athletics,3216667.0
+"Mulder, Mark",Oakland Athletics,2650000.0
+"Neu, Mike",Oakland Athletics,300000.0
+"Rincon, Ricardo",Oakland Athletics,1700000.0
+"Zito, Barry",Oakland Athletics,1000000.0
+"Cordero, Francisco",Texas Rangers,900000.0
+"Fultz, Aaron",Texas Rangers,600000.0
+"Garcia, Reynaldo",Texas Rangers,300000.0
+"Lewis, Colby",Texas Rangers,302500.0
+"Nitkowski, CJ",Texas Rangers,550000.0
+"Park, Chan Ho",Texas Rangers,13000000.0
+"Powell, Jay",Texas Rangers,3250000.0
+"Thomson, John",Texas Rangers,1300000.0
+"Urbina, Ugueth",Texas Rangers,4500000.0
+"Valdes, Ismael",Texas Rangers,2500000.0
+"Van Poppel, Todd",Texas Rangers,2500000.0
+"Yan, Esteban",Texas Rangers,1500000.0
+"Zimmerman, Jeff",Texas Rangers,3366667.0
