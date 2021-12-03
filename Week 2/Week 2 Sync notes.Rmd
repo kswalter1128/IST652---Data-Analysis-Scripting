@@ -1,0 +1,49 @@
+---
+title: "Week 2 Sync Scripting to Data Analysis"
+author: "Kyle Walter"
+date: "4/14/2021"
+output: html_document
+---
+
+### Agenda
+1. Strings
+2. Tuples
+3. Loops
+4. Put into a group for a small program
+
+Tuesday is the day that teacher is checking to see that the Async is completed for the previous week.
+
+Any questions on loops.
+
+### Let's go over Tuples  
+
+```{python}
+t1 = 'a', #(tuple)
+t2 = 'bc' #(string)
+
+print(type(t1), t1)
+print(type(t2), t2)
+```
+Mutiple ways to create a tuple
+```{python}
+
+t3 = tuple('gorgeous') # Tuples function - Remember Tuples are in Parenthesis instead of backets
+type(t3)
+print(t3)
+```
+
+```{Python}
+list1 = [1,2,5,6]
+res = [(val, pow(val, 3)) for val in list1]
+print(res)
+```
+
+Tuples are faster than list, they're also a bit smaller in size than a list. Can make a big difference if the list is quite long
+protects the data
+Tuples are unchangeable
+If you need to change a value have to recreate the tuple
+Tuples as key/value paris to build dictionaries
+
+### Editors
+Notepad and Word files are always available.
+They do not have any assistance with syntax but they are readily available as part of the system.

@@ -1,0 +1,11 @@
+The Code:
+variable = np.array([[1,2,3,4,5],[6,7,8,9,10],[11,12,13,14,15],[16,17,18,19,20]])
+print(variable[2:,(-3,-2)])
+print([sum(x) for x in zip(*variable)])
+
+The result:
+
+array([[13, 14],
+       [18, 19]])
+
+[34, 38, 42, 46, 50]

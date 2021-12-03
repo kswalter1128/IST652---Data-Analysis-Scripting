@@ -1,0 +1,17 @@
+The Code:
+"""
+Create a dictionary with 5 people as the key and their phone number as the output
+Then run the code so the output is sorted in alphabetical order by name
+"""
+
+phonedict ={'Ethel':'797-3355','Lola':'347-3149', 'Ian':'295-4780', 'Maria':'930-8209', 'Kyle':'390-8659'}
+for i in sorted(phonedict):
+    print(i, phonedict[i])
+
+The Result:
+runfile('C:/Users/kyles/untitled2.py', wdir='C:/Users/kyles')
+Ethel 797-3355
+Ian 295-4780
+Kyle 390-8659
+Lola 347-3149
+Maria 930-8209

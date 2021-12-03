@@ -1,0 +1,35 @@
+Code:
+
+score = .95 #Change Score to Values for Output
+if type(score)!=float:
+    print('Bad Score')
+elif score >1:
+    print('Bad Score')
+elif score<0:
+    print('Bad Score')
+elif score>=.9:
+    print('A')
+elif score>=.8:
+    print('B')
+elif score>=.7:
+     print('C')
+elif score>=.6:
+     print('D')
+else: 
+    print('F')
+
+
+runfile('C:/Users/kyles/.spyder-py3/temp.py', wdir='C:/Users/kyles/.spyder-py3')
+A
+
+runfile('C:/Users/kyles/.spyder-py3/temp.py', wdir='C:/Users/kyles/.spyder-py3')
+Bad Score
+
+runfile('C:/Users/kyles/.spyder-py3/temp.py', wdir='C:/Users/kyles/.spyder-py3')
+Bad Score
+
+runfile('C:/Users/kyles/.spyder-py3/temp.py', wdir='C:/Users/kyles/.spyder-py3')
+C
+
+runfile('C:/Users/kyles/.spyder-py3/temp.py', wdir='C:/Users/kyles/.spyder-py3')
+F

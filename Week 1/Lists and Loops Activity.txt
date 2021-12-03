@@ -1,0 +1,18 @@
+
+Samples =['a','ba','cat','dog','el','grill','ha','I','jack','Kyle']
+for sam in Samples:
+    if len(sam)>2:
+        print(sam)
+cat
+dog
+grill
+jack
+Kyle
+
+
+Samples =['a','ba','cats','dogs','el','grills','ha','I','jacks','Kyles']
+for sam in Samples:
+    if len(sam)>2 and len(sam)<5:
+        print(sam)
+cats
+dogs

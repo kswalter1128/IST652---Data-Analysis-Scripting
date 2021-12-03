@@ -1,0 +1,23 @@
+---
+title: "Week 3 Async"
+author: "Kyle Walter"
+date: "4/17/2021"
+output: html_document
+---
+
+## Dictionaries in Python
+
+### To create a dictionary
+can using the function dict()
+Can also specify the name of the dictionary you're creating = {}
+
+### To return various items from the dictionary once entered
+DictionaryName.key() = returns the keys in the dictionary
+DictionaryName.value() = returns the values in the dictionary
+DictionaryName.items() = returns the both keys and values
+
+len() on a dictinary class will return the number of items in the dictionary
+
+Note since dictionary use hashkey the order is not prodictable and will not be in the same order entered
+
+### 

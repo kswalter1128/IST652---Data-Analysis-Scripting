@@ -1,0 +1,10 @@
+1. B
+2. hours=input('Enter Hours:')
+   rate=input('Enter Rate:')
+   pay=round(int(hours)*float(rate),2)
+   print('Pay: ',pay)
+3.1 float
+3.2 float
+3.3 float
+3.4 int
+ 

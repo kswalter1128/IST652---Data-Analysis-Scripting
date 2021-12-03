@@ -1,0 +1,48 @@
+The Code:
+#Change the directory
+import os
+os.chdir('R:\Graduate School\IST652 - Data Analytics Scripting\Week 3')
+
+#read the file
+nbafile = open('NBA-Attendance-1989.txt', 'r')
+
+#munge the data
+nbalist =[]
+for i in nbafile:
+    textline = i.strip()
+    items = textline.split()
+    nbalist.append(items)
+
+# check the conversion
+len(nbalist)
+
+#Get Attendance
+attend=[]
+for line in nbalist:
+    attend.append(int(line[1]))
+print(attend)
+
+#Create the variables
+teams=[]
+attend=[]
+prices=[]
+for (team, att, price) in nbalist:
+    teams.append(team)
+    attend.append(int(att))
+    prices.append(float(price))
+
+
+
+
+print("Average Attendance in 1989:", format(sum(attend)/len(attend),'.0f'))
+print("Average Price in 1989:", format(sum(prices)/len(prices),'.2f'))
+print("Max Price Charged:", max(prices), "Charged by:", teams[prices.index(max(prices))])
+print("Max Attendance: ", max(attend), "Team with best Attendance: ", teams[attend.index(max(attend))])
+
+The Output:
+runfile('C:/Users/kyles/untitled1.py', wdir='C:/Users/kyles')
+[13993, 14916, 23901, 18404, 16969, 16868, 12668, 21454, 15025, 15846, 12885, 11869, 17378, 15008, 16088, 26160, 12160, 17815, 15606, 14017, 14114, 12884, 17014, 14722, 12244, 12616, 11565]
+Average Attendance in 1989: 15711
+Average Price in 1989: 18.57
+Max Price Charged: 29.18 Charged by: LA_Lakers
+Max Attendance:  26160 Team with best Attendance:  Minnesota

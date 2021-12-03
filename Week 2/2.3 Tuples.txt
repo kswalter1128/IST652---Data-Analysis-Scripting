@@ -1,0 +1,11 @@
+ostens = ["Merl","Willie","Elden","Carol", "Linda","Lee","Liela","Lola","Loretta","LaRae","Terry","Leta"]
+ostenT = ("Merl","Willie","Elden","Carol", "Linda","Lee","Liela","Lola","Loretta","LaRae","Terry","Leta")
+print('List Length: ', len(ostens))
+print("Tuple Length:", len(ostenT))
+
+>>> ostens = ["Merl","Willie","Elden","Carol", "Linda","Lee","Liela","Lola","Loretta","LaRae","Terry","Leta"]
+>>> ostenT = ("Merl","Willie","Elden","Carol", "Linda","Lee","Liela","Lola","Loretta","LaRae","Terry","Leta")
+>>> print('List Length: ', len(ostens))
+List Length:  12
+>>> print("Tuple Length:", len(ostenT))
+Tuple Length: 12

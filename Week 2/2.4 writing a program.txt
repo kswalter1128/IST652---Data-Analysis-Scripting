@@ -1,0 +1,18 @@
+# Name of File: pay.py
+#Date Created: 2021-04-11
+# Created by: Kyle Walter
+#Purpose of Program: Calculate Pay Before Taxes
+#
+#
+rate = input('What is your current rate? ')
+hours = input('How many hours did you work in the period? ')
+
+#CalculatePay
+pay = float(rate)*float(hours)
+print('Pay:',pay)
+
+
+(base) PS R:\IST652Projects> python pay.py
+What is your current rate? 23
+How many hours did you work in the period? 35
+Pay: 805.0
