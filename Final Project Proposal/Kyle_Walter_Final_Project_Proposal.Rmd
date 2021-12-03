@@ -1,0 +1,16 @@
+---
+title: "Final Project Proposal"
+author: "Kyle Walter"
+date: "5/9/2021"
+output: word_document
+---
+
+## Final Project Proposal
+
+I found a few data sets with job requisitions from various career sites in the English Speaking World posted between 2018 and 2020. I would like to analyze the data to see if I can pinpoint certain skills that are both rising and falling in demand and predict what would be needed by those in the workforce in the coming year(s). Looking at it by Industry and Location. If I can find foreign job sites as well, I'd like to bring them into the mix, but as my language skills outside of English and Japanese are limited this may prove challegning.
+
+Among the US data I'd like to see if there are skills that are in high demand in certain parts of the country vs is others and if avilable in the data can I see the migration patters that the media keeps screaming about in the data or is something else going on.
+
+I woiuld also like to see depending upon time and skills taught in the course if I could potential also pull current list to see how the predictions based on the historical data are turning out or if the model needs tweaking, keeping in mind that we just went through the COVID-19 crisis that may generate some unexpected results.
+
+I do think one of the challenge areas as we are just starting to study it will be around managing these various file types found such as XML and JSON as we haven't yet worked with these. I also suspect there will be some text mining involved as I'll need to pull qualifications and responsibilties from the job descriptions.
